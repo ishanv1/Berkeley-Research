@@ -1,0 +1,29 @@
+frapper    Part of Speech Tag: frapper VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+gÃªnent    Part of Speech Tag: gÃªnent NOUN    Entity Type: gÃanent CONSUMER_GOOD    Sentiment Score/magnitude: 0.0/0.0
+catarrhes    Part of Speech Tag: catarrhes NOUN    Entity Type: catarrhes OTHER    Sentiment Score/magnitude: 0.0/0.0
+haut    Part of Speech Tag: haut ADJ    Entity Type:    Sentiment Score/magnitude: 0.1/0.1
+sorbets    Part of Speech Tag: sorbets NOUN    Entity Type: sorbets OTHER    Sentiment Score/magnitude: 0.2/0.2
+entrefermant    Part of Speech Tag: entrefermant VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+flotterait    Part of Speech Tag: flotterait VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+accords    Part of Speech Tag: accords NOUN    Entity Type: accords OTHER    Sentiment Score/magnitude: 0.1/0.1
+pommette    Part of Speech Tag: pommette NOUN    Entity Type: pommette OTHER    Sentiment Score/magnitude: 0.0/0.0
+suspendue    Part of Speech Tag: suspendue VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+conception    Part of Speech Tag: conception NOUN    Entity Type: conception OTHER    Sentiment Score/magnitude: 0.1/0.1
+entrer    Part of Speech Tag: entrer VERB    Entity Type:    Sentiment Score/magnitude: 0.1/0.1
+minci    Part of Speech Tag: minci VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+mirlitons    Part of Speech Tag: mirlitons NOUN    Entity Type: mirlitons OTHER    Sentiment Score/magnitude: 0.0/0.0
+refusÃ    Part of Speech Tag: refusÃ NOUN    Entity Type: refusÃ OTHER    Sentiment Score/magnitude: 0.0/0.0
+rentra    Part of Speech Tag: rentra VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+rouvrait    Part of Speech Tag: rouvrait VERB    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+hÃªtres    Part of Speech Tag: hÃªtres NOUN    Entity Type: hÃatres OTHER    Sentiment Score/magnitude: 0.0/0.0
+descentes    Part of Speech Tag: descentes NOUN    Entity Type: descentes OTHER    Sentiment Score/magnitude: 0.1/0.1
+chev    Part of Speech Tag: chev NOUN    Entity Type: chev OTHER    Sentiment Score/magnitude: 0.0/0.0
+vanneau    Part of Speech Tag: vanneau NOUN    Entity Type: vanneau OTHER    Sentiment Score/magnitude: 0.0/0.0
+lic    Part of Speech Tag: lic NOUN    Entity Type: lic OTHER    Sentiment Score/magnitude: 0.1/0.1
+inactive    Part of Speech Tag: inactive ADJ    Entity Type:    Sentiment Score/magnitude: 0.0/0.0
+cous    Part of Speech Tag: cous NOUN    Entity Type: cous OTHER    Sentiment Score/magnitude: 0.2/0.2
+goulot    Part of Speech Tag: goulot NOUN    Entity Type: goulot OTHER    Sentiment Score/magnitude: 0.0/0.0
+fronts    Part of Speech Tag: fronts NOUN    Entity Type: fronts OTHER    Sentiment Score/magnitude: 0.0/0.0
+Oh! Si tu pouvais lire dans mon coeur, tu verrais la place où je t’ai mise!    Part of Speech Tag: Oh X ! PUNCT Si ADP tu PRON pouvais VERB lire VERB dans ADP mon PRON coeur NOUN , PUNCT tu PRON verrais VERB la DET place NOUN où ADV je PRON t’ ADJ ai VERB mise VERB ! PUNCT    Entity Type: place OTHER coeur OTHER    Sentiment Score/magnitude: 0.0/0.0
+Soyez réglé dans votre vie et ordinaire comme un bourgeois, afin d'être violent et original dans vos œuvres.    Part of Speech Tag: Soyez VERB réglé VERB dans ADP votre PRON vie NOUN et CONJ ordinaire ADJ comme ADP un DET bourgeois NOUN , PUNCT afin ADP d' ADP être VERB violent ADJ et CONJ original ADJ dans ADP vos PRON œuvres NOUN . PUNCT    Entity Type: œuvres WORK_OF_ART vie OTHER bourgeois PERSON    Sentiment Score/magnitude: -0.3/0.3
+Rien n'est humiliant comme de voir les sots réussir dans les entreprises où l'on échoue.    Part of Speech Tag: Rien NOUN n' NOUN est VERB humiliant ADJ comme ADP de ADP voir VERB les DET sots NOUN réussir VERB dans ADP les DET entreprises NOUN où ADV l' PRT on PRON échoue VERB . PUNCT    Entity Type: Rien OTHER entreprises ORGANIZATION sots PERSON    Sentiment Score/magnitude: -0.5/0.5
